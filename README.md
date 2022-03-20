@@ -1,4 +1,4 @@
-## Studio (Unstable)
+## Studio (Unstable) PICTURES Only
 A studio for video editor.
 
 [ ![Build Status](https://travis-ci.org/seanghay/studio.svg?branch=master)](https://travis-ci.org/seanghay/studio)
